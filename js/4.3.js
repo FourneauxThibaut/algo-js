@@ -15,4 +15,3 @@ function multiRand(n){
 }
 
 let test = multiRand(5);
-console.log( test );
