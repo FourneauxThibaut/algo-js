@@ -16,3 +16,5 @@ arr2.forEach(function(item){
 });
 
 console.log('the total of your number are', total);
+
+console.log(arr1);
